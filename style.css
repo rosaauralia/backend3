@@ -1,0 +1,12 @@
+body {
+    background-image: url('bunga.png');
+    background-size: cover;
+}
+
+.mx-auto {
+    width: 800px;
+}
+
+.card {
+    margin-top: 10px;
+}
